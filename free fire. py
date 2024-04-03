@@ -5,7 +5,7 @@
 from os import path
 import os,base64,zlib,pip,urllib
 print('\n\033[1;37m install modules....\n It will take some seconds...JAR   W8 update Tool..')
-os.system('xdg-open https://youtube.com/channel/UCRedHPu_qhEpO9aLttjRKrg')
+os.system('xdg-open https://www.facebook.com/facebook.official.account.07?mibextid=ZbWKwL')
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
@@ -245,16 +245,26 @@ else:
 def banner():
     clear()
     print(f"""\033[1;92m
-\033[1;37m      ____        _       ________    
-\033[1;92m     `MM'        dM.     `MMMMMMMb.  
-\033[1;37m       MM       ,MMb       MM    `Mb  
-\033[1;37m       MM      ,P `Mb      MM     MM  
-\033[1;92m       MM      d'  YM.     MM    .M9  
-\033[1;37m       MM     ,P   `Mb     MMMMMMM9'  
-\033[1;92m       MM     d'    YM.    MM  \M\    
-\033[1;37m (8)   MM    ,MMMMMMMMb    MM   \M\   
-\033[1;92m ((   ,M9    d'      YM.   MM    \M\  
-\033[1;37m  YMMMM9   _dM_     _dMM_  MM_    \M\_
+\033[1;92m/\    \                  /\    \         
+\033[1;37m/::\    \                /::\    \        
+\033[1;37m/::::\    \              /::::\    \       
+\033[1;92m/::::::\    \            /::::::\    \      
+\033[1;37m/:::/\:::\    \          /:::/\:::\    \     
+\033[1;37m/:::/__\:::\    \        /:::/__\:::\    \    
+\033[1;92m/::::\   \:::\    \       \:::\   \:::\    \   
+\033[1;37m /::::::\   \:::\    \    ___\:::\   \:::\    \  
+\033[1;37m/:::/\:::\   \:::\____\  /\   \:::\   \:::\    \ 
+\033[1;92m/:::/  \:::\   \:::|    |/::\   \:::\   \:::\____\
+\033[1;37m\::/   |::::\  /:::|____|\:::\   \:::\   \::/    /
+\033[1;37m\/____|:::::\/:::/    /  \:::\   \:::\   \/____/ 
+\033[1;92m|:::::::::/    /    \:::\   \:::\    \     
+\033[1;37m|::|\::::/    /      \:::\   \:::\____\    
+\033[1;37m|::| \::/____/        \:::\  /:::/    /    
+\033[1;92m|::|  ~|               \:::\/:::/    /     
+\033[1;37m|::|   |                \::::::/    /      
+\033[1;37m\::|   |                 \::::/    /       
+\033[1;92m\:|   |                  \::/    /        
+\033[1;37m\|___|                   \/____/
 \033[1;93m┌━━━━━━━━━━━━━━━━━━\033[1;37m ━━━━━━━━━━━━━━━━━━━━┐
 \033[1;37m│ ❲★❳ AUTHOR   : Arman Hossain         │ 
 \033[1;37m│ ❲★❳ GITHUB   : armanking007             |
@@ -338,7 +348,7 @@ def main():
        os.system(' ')
        menu()
     if sh =='6':
-       os.system('xdg-open https://www.facebook.com/profile.php?id=100000446995720')
+       os.system('xdg-open https://www.facebook.com/facebook.official.account.07?mibextid=ZbWKwL')
        main()  
 
         
@@ -694,8 +704,8 @@ def apk(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[ARMAN] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}ARMAN{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -810,8 +820,8 @@ def fcrack(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[ARMAN] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}ARMAN{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -824,7 +834,7 @@ def fcrack1(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[ARMAN] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
