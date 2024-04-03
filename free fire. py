@@ -952,7 +952,7 @@ def approval():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "4h".join(uuid)
   try:
-    httpCaht = requests.get('https://raw.githubusercontent.com/Jahidul404/apv/main/apv-a').text
+    httpCaht = requests.get('https://raw.githubusercontent.com/Armanking007/7_king/main/Approval.%20txt').text
     if id in httpCaht:
       print("\33[1;32mYour Token is Successfully Approved")
       print('\033[1;93mYour Token is Successfully Approved ')
@@ -978,7 +978,7 @@ def approval():
       print('\033[1;97m[\033[92;1m●\033[1;97m] Join Fb Group')
       print('\033[1;97m[\033[92;1m●\033[1;97m] Exit Menu')                               
       input('\033[1;97m[\033[92;1mENTER\033[1;97m] Upgrade Tool (\033[92;1mPremium\033[1;97m)  ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801701707661?text='+tks),approval()
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801759242330?text='+tks),approval()
       time.sleep(1)
       approval()
   except:
